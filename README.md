@@ -29,10 +29,7 @@
 </p>
 </p>
 
-<p>project demo 1 <a href="https://ajitharunai.github.io/portfolio-responsive-complete_web_page/">portfolio Webpage</a>.</p>
-<p>project demo 2 <a href="https://vercel.com/ajitharunai/portfolio-responsive-complete-web-page">portfolio Webpage</a>.</p>
-
-
+<p>project demo 1 <a href="https://ajitharunai.github.io/Bithday-Counter-using-Js/">Birthday Counter</a>.</p>
 <p align="center">
   <em>
     Hello, I am Ajith Kumar Murugan <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>Arunai Engineering College</b>, Tiruvannamalai (" Wisdom is all wealth ")</a>. <br>
